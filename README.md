@@ -38,3 +38,5 @@ In addition to the main Freya site ([freya.io](https://freya.io)), feel free to 
 
 * [@kolektiv](https://github.com/kolektiv)
 * [@panesofglass](https://github.com/panesofglass)
+
+##Custom Operators
